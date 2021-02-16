@@ -89,3 +89,13 @@ header{
 	font-weight: 300;
 	font-size: 25px;
 }
+
+/*Nuestro servicios*/
+
+.subtitulos{
+	text-align: center;
+	font-weight: 300;
+	color: #9f8ad0;
+	margin-bottom: 40px;
+	font-size: 40px;
+}

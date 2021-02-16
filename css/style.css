@@ -107,3 +107,30 @@ header{
 	flex-wrap: wrap;
 }
 
+.contenedor-servicio img{
+	width: 40%;
+}
+
+.checklist-servico{
+	width: 45%;
+}
+
+.service{
+	margin-bottom: 20px;
+}
+
+.n-sevice{
+	margin-bottom: 7px;
+	color: #9f8ad0;
+}
+
+.number{
+	display: inline-block;
+	background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+	width: 30px;
+	height: 30px;
+	color: white;
+	text-align: center;
+	border-radius: 50px;
+	font-weight: 700;
+}

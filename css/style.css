@@ -195,3 +195,46 @@ header{
 	cursor: pointer;
 
 }
+
+.experts{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.cont-expert{
+	width: 30%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.cont-expert img{
+	width: 80%;
+	display: block;
+	margin:0 auto;
+}
+
+.n-expert{
+	display: inline-block;
+	margin-top: 20px;
+	width: 100%;
+	font-weight: 400;
+}
+
+/* Footer */
+
+footer{
+	background: #9f8ad0;
+	padding-bottom:  0.1px;
+}
+
+.footer-content{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	
+}

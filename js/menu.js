@@ -1,8 +1,8 @@
 const inicio = document.querySelector(".inicio");
 const menu = document.querySelector(".menu-navegacion");
 
-console.log(menu)
-console.log(inicio)
+// console.log(menu)
+// console.log(inicio)
 
 inicio.addEventListener("click" , ()=>{
     menu.classList.toggle("spread")

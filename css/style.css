@@ -157,6 +157,7 @@ header{
 	cursor: pointer;
 }
 
+
 .imagen-light{
 	position: fixed;
 	background: rgba(0, 0, 0, .6);
@@ -177,7 +178,7 @@ header{
 
 .agregar-imagen{
 	object-fit: cover;
-	width: 60%;
+	width: 45%;
 	border-radius: 10px;
 	transform: scale(0);
 	transition: transform .3s .2s;
